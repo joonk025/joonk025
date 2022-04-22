@@ -9,9 +9,7 @@
 
 -   👨🏽‍💻 I’m always exploring technologies with a big interest in Typescript, React, Redux, Node, CSR/SSR/ISR, CSS(pre-processors, frameworks, CSS-in-JS) and automated testing with CI/CD
 
--   🤔 My interest lies in the Frontend Development - especially optimizing user experience, performance, and delivery with attention to detail
-
--   📫 Email me at [joonkim025@gmail.com](mailto:joonkim025@gmail.com)
+-   🤔 My interest lies in the Frontend Development - especially optimizing user experience, performance, and continuous delivery with attention to detail
 
 ---
 
