@@ -1,6 +1,4 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://i.ibb.co/GJ5gFKH/developer.gif"/>
- </p>
+
 
 <h1 align="center">Hi, my name is Joon Kim <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Software Engineer located in Seattle, WA.</h3>
@@ -13,9 +11,7 @@
 
 ---
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://i.ibb.co/0GZM0Hv/Java-Script-frameworks.gif"/>
-</p>
+
 
 <h3 align="center">Connect with me</h3>
 
