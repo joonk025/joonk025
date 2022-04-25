@@ -9,7 +9,7 @@
 
 -   🤔 My interest lies in the Frontend Development - especially optimizing user experience, performance, and continuous delivery with attention to detail
 
----
+
 
 
 
