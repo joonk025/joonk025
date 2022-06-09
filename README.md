@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, my name is Joon Kim <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, my name is Joon Kim <img width="5px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Software Engineer located in Seattle, WA.</h3>
 
 -   🌱 I’m consistenty learning about the **rapidly-evolving Frontend World** 
@@ -32,7 +32,7 @@
  <div align="center">
   <a href="https://github.com/joonk025">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joonk025&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonk025&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
+
 </div>
 
 </div>
