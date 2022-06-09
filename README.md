@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, my name is Joon Kim <img width="5px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, my name is Joon Kim </h1>
 <h3 font-size="20" align="center">A passionate Software Engineer located in Seattle, WA.</h3>
 
 -   🌱 I’m consistenty learning about the **rapidly-evolving Frontend World** 
